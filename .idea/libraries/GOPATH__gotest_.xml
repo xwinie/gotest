@@ -1,0 +1,33 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;gotest&gt;">
+    <CLASSES>
+      <root url="file://D:/go-pkgs/src/github.com" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <excluded>
+      <root url="file://D:/go-pkgs/src/github.com/bernos/go-hateoas/Godeps/_workspace" />
+      <root url="file://D:/go-pkgs/src/github.com/codehack/go-relax/.git" />
+      <root url="file://D:/go-pkgs/src/github.com/lisijie/webcron/.git" />
+      <root url="file://D:/go-pkgs/src/github.com/astaxie/beego/utils/testdata" />
+      <root url="file://D:/go-pkgs/src/github.com/beego/bee/testdata" />
+      <root url="file://D:/go-pkgs/src/github.com/astaxie/beego/.github" />
+      <root url="file://D:/go-pkgs/src/github.com/smartystreets/assertions/internal/oglemock/createmock/testdata" />
+      <root url="file://$PROJECT_DIR$" />
+      <root url="file://D:/go-pkgs/src/github.com/smartystreets/assertions/.git" />
+      <root url="file://D:/go-pkgs/src/github.com/jtolds/gls/.git" />
+      <root url="file://D:/go-pkgs/src/github.com/howeyc/fsnotify/.git" />
+      <root url="file://D:/go-pkgs/src/github.com/lib/pq/.git" />
+      <root url="file://D:/go-pkgs/src/github.com/bernos/go-hateoas/.git" />
+      <root url="file://D:/go-pkgs/src/github.com/astaxie/beego/.git" />
+      <root url="file://D:/go-pkgs/src/github.com/lisijie/cron/.git" />
+      <root url="file://D:/go-pkgs/src/github.com/smartystreets/goconvey/.git" />
+      <root url="file://D:/go-pkgs/src/github.com/satori/go.uuid/.git" />
+      <root url="file://D:/go-pkgs/src/github.com/go-sql-driver/mysql/.git" />
+      <root url="file://D:/go-pkgs/src/github.com/smartystreets/assertions/internal/oglemock/generate/testdata" />
+      <root url="file://D:/go-pkgs/src/github.com/lisijie/webcron/.idea" />
+      <root url="file://D:/go-pkgs/src/github.com/beego/bee/.git" />
+      <root url="file://D:/go-pkgs/src/github.com/julienschmidt/httprouter/.git" />
+    </excluded>
+  </library>
+</component>
