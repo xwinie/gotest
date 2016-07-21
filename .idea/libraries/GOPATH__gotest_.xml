@@ -1,33 +1,80 @@
 <component name="libraryTable">
   <library name="GOPATH &lt;gotest&gt;">
     <CLASSES>
+      <root url="file://D:/go-pkgs/src/gotest" />
+      <root url="file://D:/go-pkgs/src/labix.org" />
       <root url="file://D:/go-pkgs/src/github.com" />
+      <root url="file://D:/go-pkgs/src/gopkg.in" />
+      <root url="file://D:/go-pkgs/src/xkb-backend" />
+      <root url="file://D:/go-pkgs/src/odbc" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
     <excluded>
-      <root url="file://D:/go-pkgs/src/github.com/bernos/go-hateoas/Godeps/_workspace" />
+      <root url="file://D:/go-pkgs/src/github.com/derekparker/delve/.git" />
       <root url="file://D:/go-pkgs/src/github.com/codehack/go-relax/.git" />
-      <root url="file://D:/go-pkgs/src/github.com/lisijie/webcron/.git" />
-      <root url="file://D:/go-pkgs/src/github.com/astaxie/beego/utils/testdata" />
-      <root url="file://D:/go-pkgs/src/github.com/beego/bee/testdata" />
-      <root url="file://D:/go-pkgs/src/github.com/astaxie/beego/.github" />
+      <root url="file://D:/go-pkgs/src/github.com/alexbrainman/odbc/testdata" />
+      <root url="file://D:/go-pkgs/src/github.com/alexbrainman/odbc/.git" />
+      <root url="file://D:/go-pkgs/src/gopkg.in/mgo.v2/.git" />
+      <root url="file://D:/go-pkgs/src/github.com/siddontang/go-mysql/.git" />
+      <root url="file://D:/go-pkgs/src/github.com/derekparker/delve/dwarf/frame/testdata" />
+      <root url="file://D:/go-pkgs/src/github.com/nsf/gocode/_gccgo" />
       <root url="file://D:/go-pkgs/src/github.com/smartystreets/assertions/internal/oglemock/createmock/testdata" />
-      <root url="file://$PROJECT_DIR$" />
-      <root url="file://D:/go-pkgs/src/github.com/smartystreets/assertions/.git" />
+      <root url="file://D:/go-pkgs/src/github.com/nsf/gocode/_goremote" />
       <root url="file://D:/go-pkgs/src/github.com/jtolds/gls/.git" />
+      <root url="file://D:/go-pkgs/src/xkb-backend/.idea" />
+      <root url="file://D:/go-pkgs/src/github.com/nsf/gocode/_testing" />
+      <root url="file://D:/go-pkgs/src/github.com/laher/argo/.git" />
+      <root url="file://D:/go-pkgs/src/github.com/go-sql-driver/mysql/.git" />
+      <root url="file://D:/go-pkgs/src/odbc/.git" />
+      <root url="file://D:/go-pkgs/src/github.com/lisijie/webcron/.idea" />
+      <root url="file://D:/go-pkgs/src/github.com/debber/debber-v0.3/.git" />
+      <root url="file://D:/go-pkgs/src/github.com/89hmdys/toast/.git" />
+      <root url="file://D:/go-pkgs/src/github.com/laher/argo/ar/testdata" />
+      <root url="file://D:/go-pkgs/src/github.com/siddontang/go-mysql/Godeps/_workspace" />
+      <root url="file://D:/go-pkgs/src/github.com/julienschmidt/httprouter/.git" />
+      <root url="file://D:/go-pkgs/src/github.com/bernos/go-hateoas/Godeps/_workspace" />
+      <root url="file://D:/go-pkgs/src/github.com/siddontang/go-mysql-elasticsearch/.git" />
+      <root url="file://D:/go-pkgs/src/github.com/nsf/gocode/.git" />
+      <root url="file://D:/go-pkgs/src/github.com/debber/debber-v0.3/targz/testdata" />
+      <root url="file://D:/go-pkgs/src/github.com/BurntSushi/toml/.git" />
+      <root url="file://D:/go-pkgs/src/github.com/astaxie/beego/utils/testdata" />
+      <root url="file://D:/go-pkgs/src/github.com/derekparker/delve/_fixtures" />
+      <root url="file://D:/go-pkgs/src/gopkg.in/LyricTian/lib.v1/.git" />
+      <root url="file://D:/go-pkgs/src/github.com/astaxie/beego/.github" />
+      <root url="file://D:/go-pkgs/src/github.com/siddontang/go-mysql-elasticsearch/Godeps/_workspace" />
+      <root url="file://$PROJECT_DIR$" />
+      <root url="file://D:/go-pkgs/src/github.com/BurntSushi/toml/_examples" />
+      <root url="file://D:/go-pkgs/src/github.com/bndr/gopencils/_tests" />
+      <root url="file://D:/go-pkgs/src/github.com/bndr/gopencils/.git" />
       <root url="file://D:/go-pkgs/src/github.com/howeyc/fsnotify/.git" />
-      <root url="file://D:/go-pkgs/src/github.com/lib/pq/.git" />
       <root url="file://D:/go-pkgs/src/github.com/bernos/go-hateoas/.git" />
-      <root url="file://D:/go-pkgs/src/github.com/astaxie/beego/.git" />
       <root url="file://D:/go-pkgs/src/github.com/lisijie/cron/.git" />
       <root url="file://D:/go-pkgs/src/github.com/smartystreets/goconvey/.git" />
+      <root url="file://D:/go-pkgs/src/github.com/laher/goxc/testdata" />
+      <root url="file://D:/go-pkgs/src/github.com/mitchellh/gox/.git" />
+      <root url="file://D:/go-pkgs/src/github.com/weigj/go-odbc/.git" />
+      <root url="file://D:/go-pkgs/src/github.com/mitchellh/iochan/.git" />
+      <root url="file://D:/go-pkgs/src/github.com/juju/errors/.git" />
+      <root url="file://D:/go-pkgs/src/github.com/laher/goxc/.git" />
+      <root url="file://D:/go-pkgs/src/github.com/mattn/go-sqlite3/_example" />
+      <root url="file://D:/go-pkgs/src/github.com/smartystreets/assertions/.git" />
+      <root url="file://D:/go-pkgs/src/github.com/shotdog/scheduler/.git" />
+      <root url="file://D:/go-pkgs/src/github.com/lib/pq/.git" />
+      <root url="file://D:/go-pkgs/src/github.com/astaxie/beego/.git" />
       <root url="file://D:/go-pkgs/src/github.com/satori/go.uuid/.git" />
-      <root url="file://D:/go-pkgs/src/github.com/go-sql-driver/mysql/.git" />
+      <root url="file://D:/go-pkgs/src/github.com/mattn/go-sqlite3/.git" />
+      <root url="file://D:/go-pkgs/src/github.com/shotdog/quartz/.git" />
+      <root url="file://D:/go-pkgs/src/github.com/lisijie/webcron/.git" />
+      <root url="file://D:/go-pkgs/src/github.com/siddontang/go/.git" />
+      <root url="file://D:/go-pkgs/src/github.com/beego/bee/testdata" />
+      <root url="file://D:/go-pkgs/src/github.com/beego/admin/.git" />
+      <root url="file://D:/go-pkgs/src/github.com/debber/debber-v0.3/deb/testdata" />
+      <root url="file://D:/go-pkgs/src/github.com/siddontang/go-mysql-elasticsearch/.idea" />
       <root url="file://D:/go-pkgs/src/github.com/smartystreets/assertions/internal/oglemock/generate/testdata" />
-      <root url="file://D:/go-pkgs/src/github.com/lisijie/webcron/.idea" />
+      <root url="file://D:/go-pkgs/src/github.com/flike/kingshard/.git" />
       <root url="file://D:/go-pkgs/src/github.com/beego/bee/.git" />
-      <root url="file://D:/go-pkgs/src/github.com/julienschmidt/httprouter/.git" />
+      <root url="file://D:/go-pkgs/src/github.com/laher/goxc/config/testdata" />
     </excluded>
   </library>
 </component>
