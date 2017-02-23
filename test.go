@@ -1,13 +1,38 @@
 package main
 
-// sample usage
-func main() {
-	sumTables:=0
-	Locations:= []int{0,1}  ;
-	for i := 0; i < len(Locations); i++ {
-		for j := 0; j < Locations[i]; j++ {
+import "fmt"
 
-		}
-		sumTables += Locations[i]
-	}
+type Integer int
+
+func (a Integer) Less(b Integer) bool {
+	return a < b
+}
+func (a *Integer) Add(b Integer) {
+	*a += b
+}
+
+type LessAdder interface {
+	Less(b Integer) bool
+	Add(b Integer)
+}
+
+type Lesser interface {
+	Less(b Integer) bool
+}
+
+func main() {
+	var a Integer = 1
+	a.Add(2)
+	fmt.Println("a =", a)
+}
+
+
+type ReadWriter interface {
+	Read(buf []byte) (n int, err error)
+	Write(buf []byte) (n int, err error)
+}
+
+type IStream interface {
+	Write(buf []byte) (n int, err error)
+	Read(buf []byte) (n int, err error)
 }
